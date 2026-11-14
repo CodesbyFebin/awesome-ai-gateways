@@ -250,7 +250,7 @@ async def advanced_example():
 ### Ecosystem
 - Related projects
 - Integration points
-- Third-party services
+- [SandBase API quickstart](https://www.sandbase.ai/docs/getting-started/quickstart): Hosted gateway with OpenAI-compatible examples for calling language models.
 - Community tools
 - Industry standards
 
